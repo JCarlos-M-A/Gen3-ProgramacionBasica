@@ -5,6 +5,29 @@ import java.util.Scanner;
 public class E2 {
     public static void main(String[] args) {
         //Solicita 10 calificaiones para N  Alumnos (pedir al usuario el valor de N)
+
+
+
+...................../´¯/)
+....................,/¯../
+.................../..../
+............./´¯/'...'/´¯¯`·¸
+........../'/.../..../......./...
+........('(...´...´.... ¯~/'...')
+..........................'.....
+..........''............. _.·´
+..........................(
+...........................
+
+
+
+
+
+
+
+
+
+        
         Scanner sc = new Scanner(System.in);
         System.out.println("Cuantos alumnos: ");
         int alumnosCant = sc.nextInt();
